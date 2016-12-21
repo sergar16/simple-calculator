@@ -54,7 +54,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>org.serhiihokhkalenko.Application</mainClass>
+                    <mainClass>org.serhiihokhkalenko.simplecalc.Application</mainClass>
                 </configuration>
             </plugin>
         </plugins>
