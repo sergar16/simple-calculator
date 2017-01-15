@@ -25,11 +25,11 @@ public class Expresion implements ArithmeticValue{
     private ArithmeticOperation arithmeticOperation;
 
     public static Expresion getExpresion(Expresion expresion, BinaryOperation binaryOperation){
-
+        return null;
     }
 
-    public static Expresion getExpresion(ArithmeticValue , BinaryOperation){
-
+    public static Expresion getExpresion(ArithmeticValue arithmeticValue, BinaryOperation binaryOperation){
+        return null;
     }
 
     @Override
